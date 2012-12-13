@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">GitPracticeWithAndroidApp</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Now in devel branch!</string>
     <string name="menu_settings">Settings</string>
 
 </resources>
